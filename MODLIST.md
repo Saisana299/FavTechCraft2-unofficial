@@ -3,64 +3,35 @@
 #### 複合
 #### 工業
 #### 魔術
+- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 #### 冒険
 #### バニラ要素改変
 #### ディメンション追加
 #### 環境要素追加
-#### アイテム追加
-#### Mob追加
-#### クライアント
-#### API/Library
-
-
-
-
-
-
-#### World Gen
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
-#### Technology
-#### Magic
-- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
-#### Storage
-#### API and Library
-#### Adventure and RPG
-- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
-#### Map and Information
-#### Cosmetic
+#### アイテム追加
 - [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars)
+- [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
+- [AzureDooms Angel Ring](https://www.curseforge.com/minecraft/mc-mods/azuredooms-angel-ring)
 - [Bamboo Everything](https://www.curseforge.com/minecraft/mc-mods/bamboo-everything-forge)
-- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
-#### Miscellaneous
-- [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+- [Builders Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
+- [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- [Clockout](https://www.curseforge.com/minecraft/mc-mods/clockout)
+#### Mob
+#### API/Library
+#### システム
+- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
 - [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
-- [Builders Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
-#### Addons
-#### Armer, Tools, and Weapons
-- [AzureDooms Angel Ring](https://www.curseforge.com/minecraft/mc-mods/azuredooms-angel-ring)
-#### Server Utility
-- [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+- [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus)(https://www.curseforge.com/minecraft/mc-mods/caelus)
+- [Campfire Torches]()
+#### クライアント
+- [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
-#### Food
-- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-#### Redstone
-
-
 
 以下未編集
 
-
-
-
-
-
-
-Building Gadgets (by Direwolf20)
-Caelus API (Forge) (by TheIllusiveC4)
-Campfire Torches (by enemeez1)
-Chisels & Bits (by AlgorithmX2)
-Clockout (by Commoble)
 Clumps (by Jaredlll08)
 CoFH Core (by TeamCoFH)
 CodeChicken Lib 1.8.+ (by covers1624)
