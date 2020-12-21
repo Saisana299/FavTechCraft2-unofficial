@@ -1,5 +1,25 @@
 ## NewTech-1.16.4 ver0.0.1 Client Modlist 
+
+#### 複合
+#### 工業
+#### 魔術
+#### 冒険・武器・Mob
+#### 便利アイテム
+#### バニラ要素改変
+#### ディメンション追加
+#### ツール・武器・防具(新鉱石あり)
+#### ツール・武器・防具(新鉱石なし)
+#### アイテム追加(特化単体・スタンダードツール)
+#### アイテム追加(特化単体・ユニークアイテム)
+
+
+
+
+
+
+
 #### World Gen
+- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 #### Technology
 #### Magic
 - [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
@@ -10,30 +30,33 @@
 #### Map and Information
 #### Cosmetic
 - [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars)
+- [Bamboo Everything](https://www.curseforge.com/minecraft/mc-mods/bamboo-everything-forge)
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 #### Miscellaneous
 - [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
+- [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
+- [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
+- [Builders Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
 #### Addons
 #### Armer, Tools, and Weapons
 - [AzureDooms Angel Ring](https://www.curseforge.com/minecraft/mc-mods/azuredooms-angel-ring)
 #### Server Utility
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
+- [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
 #### Food
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 #### Redstone
-#### Twitch Integration
-#### Fabric
 
 
 
 以下未編集
 
-Bad Wither No Cookie - Reloaded (by Kreezxil)
-Bamboo Everything (Forge) (by Gaz_)
-Bed Benefits (by DarkhaxDev)
-Better Advancements (by way2muchnoise)
-Biomes O' Plenty (by Forstride)
-Bookshelf (by DarkhaxDev)
-Builders Crafts & Additions (Forge) (by MRHminer)
+
+
+
+
+
+
 Building Gadgets (by Direwolf20)
 Caelus API (Forge) (by TheIllusiveC4)
 Campfire Torches (by enemeez1)
