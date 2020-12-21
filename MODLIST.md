@@ -1,27 +1,27 @@
 ## NewTech-1.16.4 ver0.0.1 Client Modlist 
-### World Gen
-### Technology
-### Magic
+#### World Gen
+#### Technology
+#### Magic
 - [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
-### Storage
-### API and Library
-### Adventure and RPG
+#### Storage
+#### API and Library
+#### Adventure and RPG
 - [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
-### Map and Information
-### Cosmetic
+#### Map and Information
+#### Cosmetic
 - [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars)
-### Miscellaneous
+#### Miscellaneous
 - [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
-### Addons
-### Armer, Tools, and Weapons
+#### Addons
+#### Armer, Tools, and Weapons
 - [AzureDooms Angel Ring](https://www.curseforge.com/minecraft/mc-mods/azuredooms-angel-ring)
-### Server Utility
+#### Server Utility
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
-### Food
+#### Food
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
-### Redstone
-### Twitch Integration
-### Fabric
+#### Redstone
+#### Twitch Integration
+#### Fabric
 
 
 
