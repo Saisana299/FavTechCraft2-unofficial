@@ -17,27 +17,32 @@
 - [Builders Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
 - [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
 - [Clockout](https://www.curseforge.com/minecraft/mc-mods/clockout)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 #### Mob
 #### API/Library
+- [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
+- [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core)
+- [CodeChicken Lib 1.8.+](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
 #### システム
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
 - [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 - [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus)(https://www.curseforge.com/minecraft/mc-mods/caelus)
-- [Campfire Torches]()
+- [Campfire Torches](https://www.curseforge.com/minecraft/mc-mods/campfire-torches)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+- [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
 #### クライアント
 - [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
-- [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
-
+- [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 以下未編集
 
-Clumps (by Jaredlll08)
-CoFH Core (by TeamCoFH)
-CodeChicken Lib 1.8.+ (by covers1624)
-Comforts (by TheIllusiveC4)
-Connected Glass (by SuperMartijn642)
-Controlling (by Jaredlll08)
+
+
+
+
+
+
 Cosmetic Armor Reworked (by LainMI)
 CraftTweaker (by Jaredlll08)
 Crafting Station (by tfarecnim)
