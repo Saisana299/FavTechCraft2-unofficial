@@ -170,16 +170,16 @@
 - [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip/files?sort=totaldownloads)
 
 #### 追加検討
-Psi https://www.curseforge.com/minecraft/mc-mods/psi 
-Security Craft https://www.curseforge.com/minecraft/mc-mods/security-craft 
-Advanced Chimneys https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys 
-Doggy Talents https://www.curseforge.com/minecraft/mc-mods/doggy-talents 
-Traverse Reforged https://www.curseforge.com/minecraft/mc-mods/traverse-reforged 
-Tech Reborn https://www.curseforge.com/minecraft/mc-mods/techreborn 
-Blood Magic https://www.curseforge.com/minecraft/mc-mods/blood-magic 
-Botania https://www.curseforge.com/minecraft/mc-mods/botania 
-Mana and Artifice https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice 
-Voidscape https://www.curseforge.com/minecraft/mc-mods/voidscape 
+- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
+- [Security](Craft https://www.curseforge.com/minecraft/mc-mods/security-craft)
+- [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
+- [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
+- [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
+- [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
+- [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
+- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice)
+- [Voidscape](https://www.curseforge.com/minecraft/mc-mods/voidscape)
 
 
 
