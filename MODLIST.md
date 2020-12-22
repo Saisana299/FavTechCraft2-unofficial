@@ -25,6 +25,12 @@
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
 - [Emendatus Enigmatica](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica)
+- [Ender Mail](https://www.curseforge.com/minecraft/mc-mods/ender-mail)
+- [Ender Storage 1.8.+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
+- [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
+- [Ensorcellation](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
+- [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
+- [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
 #### Mob
 
 #### API/Library
@@ -38,7 +44,7 @@
 - [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
 - [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
-- [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus)(https://www.curseforge.com/minecraft/mc-mods/caelus)
+- [Caelus API](https://www.curseforge.com/minecraft/mc-mods/caelus)
 - [Campfire Torches](https://www.curseforge.com/minecraft/mc-mods/campfire-torches)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
@@ -53,17 +59,9 @@
 - [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
-
+- [Extreme sound muffler](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
 
 以下未編集 
-
-Ender Mail (by Chaosyr)
-Ender Storage 1.8.+ (by covers1624)
-Engineer's Decor (by wilechaote)
-Ensorcellation (by TeamCoFH)
-Extra Disks (by MelanX)
-ExtraStorage (by 3divad99)
-Extreme sound muffler (Forge) (by LeoBeliik)
 FPS Reducer (by bre2el)
 FTB Backups (by FTB)
 FTB Chunks (by FTB)
@@ -98,6 +96,7 @@ McJtyLib (by McJty)
 Mekanism (by bradyaidanc)
 Mekanism Generators (by bradyaidanc)
 Mekanism Tools (by bradyaidanc)
+mGui (by mickelus)
 Miner's Helmet (by ModdingLegacy)
 Modular Routers (by desht_08)
 More Dragon Eggs (by Darkere)
@@ -164,4 +163,4 @@ XNet (by McJty)
 XNet Gases (by Terrails)
 YUNG's Better Caves (Forge) (by YUNGNICKYOUNG)
 YUNG's Better Mineshafts (Forge) (by YUNGNICKYOUNG)
-mGui (by mickelus)
+
