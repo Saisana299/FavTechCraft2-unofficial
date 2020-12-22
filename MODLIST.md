@@ -5,6 +5,7 @@
 - [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+- [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
 
 #### 農業
 
@@ -38,6 +39,13 @@
 - [Framed Compacting Drawers](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers)
 - [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
 - [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential)
+- [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
+- [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
+- [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
+- [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
+- [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
+
+
 
 #### Mob
 
@@ -48,6 +56,8 @@
 - [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 - [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
 - [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
+- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
+
 #### システム
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
@@ -72,28 +82,28 @@
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 - [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
+- [JAOPCA](https://www.curseforge.com/minecraft/mc-mods/jaopca)
+- [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs)
+
 #### クライアント
 - [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
 - [Extreme sound muffler](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
+- [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)
+- [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration)
+- [JEITweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 
 以下未編集 
-Industrial Foregoing (by Buuz135)
-Inventory Tweaks Renewed (by David1544)
-Item Filters (by LatvianModder)
-JAOPCA (by TheLMiffy1111)
-JEI Integration (by SnowShock35)
-JEITweaker (by Jaredlll08)
-Just Enough Items (JEI) (by mezz)
-Just Enough Resources (JER) (by way2muchnoise)
-KleeSlabs (by BlayTheNinth)
-Macaw's Bridges (by sketch_macaw)
-Macaw's Doors (by sketch_macaw)
-Macaw's Roofs (by sketch_macaw)
-Macaw's Trapdoors (by sketch_macaw)
-Macaw's Windows (by sketch_macaw)
+
+
+
+
+
+
 McJtyLib (by McJty)
 Mekanism (by bradyaidanc)
 Mekanism Generators (by bradyaidanc)
