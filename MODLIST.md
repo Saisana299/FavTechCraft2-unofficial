@@ -2,6 +2,8 @@
 
 #### 工業
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+- [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+- [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 #### 農業
 
 #### 魔術
@@ -35,6 +37,7 @@
 - [Framed Compacting Drawers](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers)
 - [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
 - [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential)
+
 #### Mob
 
 #### API/Library
@@ -76,8 +79,6 @@
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
 
 以下未編集 
-Immersive Engineering (by BluSunrize)
-Immersive Petroleum (by Flaxbeard)
 Industrial Foregoing (by Buuz135)
 Inventory Tweaks Renewed (by David1544)
 Item Filters (by LatvianModder)
