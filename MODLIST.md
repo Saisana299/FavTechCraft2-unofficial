@@ -79,7 +79,7 @@
 - [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [Portable Stonecutter](https://www.curseforge.com/minecraft/mc-mods/portable-stonecutter)
-- [QuantumStorage](https://www.curseforge.com/minecraft/mc-mods/quantumstorage)
+- [~~QuantumStorage~~](https://www.curseforge.com/minecraft/mc-mods/quantumstorage)
 - [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
 - [Restrictions](https://www.curseforge.com/minecraft/mc-mods/restrictions)
 - [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
