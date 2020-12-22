@@ -54,6 +54,7 @@
 - [Bamboo Everything](https://www.curseforge.com/minecraft/mc-mods/bamboo-everything-forge)
 - [Builders Crafts & Additions](https://www.curseforge.com/minecraft/mc-mods/buildersaddition)
 - [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
+- [Chisels & Bits](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)
 - [Clockout](https://www.curseforge.com/minecraft/mc-mods/clockout)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
