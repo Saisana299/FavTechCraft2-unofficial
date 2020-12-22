@@ -45,7 +45,6 @@
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
 
 #### 環境要素追加
-- [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Towers Of The Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
 
 #### アイテム追加
