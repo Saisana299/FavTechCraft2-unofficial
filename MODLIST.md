@@ -2,8 +2,10 @@
 
 #### 工業
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+- [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
+
 #### 農業
 
 #### 魔術
@@ -29,7 +31,6 @@
 - [Emendatus Enigmatica](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica)
 - [Ender Mail](https://www.curseforge.com/minecraft/mc-mods/ender-mail)
 - [Ender Storage 1.8.+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
-- [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
 - [Ensorcellation](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 - [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
 - [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
