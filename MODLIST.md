@@ -170,7 +170,7 @@
 - [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip/files?sort=totaldownloads)
 
 #### 追加検討
-- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi
+- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
 - [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
 - [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
 - [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
