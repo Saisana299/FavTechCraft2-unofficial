@@ -59,7 +59,7 @@
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
 - [Emendatus Enigmatica](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica)
-- [Ender Mail](https://www.curseforge.com/minecraft/mc-mods/ender-mail)
+- [~~Ender Mail~~](https://www.curseforge.com/minecraft/mc-mods/ender-mail)
 - [Ender Storage 1.8.+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 - [Ensorcellation](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 - [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
