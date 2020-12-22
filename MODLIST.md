@@ -1,12 +1,17 @@
 ## NewTech-1.16.4 ver0.0.1 Client Modlist 
 
-#### 複合
 #### 工業
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create)
+#### 農業
+
 #### 魔術
 - [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 #### 冒険
+
 #### バニラ要素改変
+
 #### ディメンション追加
+
 #### 環境要素追加
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 #### アイテム追加
@@ -18,11 +23,16 @@
 - [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets)
 - [Clockout](https://www.curseforge.com/minecraft/mc-mods/clockout)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
+- [Emendatus Enigmatica](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica)
 #### Mob
+
 #### API/Library
 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
 - [CoFH Core](https://www.curseforge.com/minecraft/mc-mods/cofh-core)
 - [CodeChicken Lib 1.8.+](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
+- [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
+- [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
 #### システム
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
@@ -32,30 +42,21 @@
 - [Campfire Torches](https://www.curseforge.com/minecraft/mc-mods/campfire-torches)
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [Connected Glass](https://www.curseforge.com/minecraft/mc-mods/connected-glass)
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+- [Curio of Undying](https://www.curseforge.com/minecraft/mc-mods/curio-of-undying)
+- [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra)
+- [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
+- [Demagnetize](https://www.curseforge.com/minecraft/mc-mods/demagnetize)
+- [Drawers Tooltip](https://www.curseforge.com/minecraft/mc-mods/drawers-tooltip)
 #### クライアント
 - [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
-以下未編集
+- [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
 
 
+以下未編集 
 
-
-
-
-
-Cosmetic Armor Reworked (by LainMI)
-CraftTweaker (by Jaredlll08)
-Crafting Station (by tfarecnim)
-Crafting Tweaks (by BlayTheNinth)
-Create (by simibubi)
-CreativeCore (by CreativeMD)
-Curio of Undying (Forge) (by TheIllusiveC4)
-Curios API (Forge) (by TheIllusiveC4)
-Curious Elytra (Forge) (by TheIllusiveC4)
-Default Options (by BlayTheNinth)
-Demagnetize (by comp500)
-Drawers Tooltip (by Snownee_)
-Emendatus Enigmatica (by Ridanisaurus)
 Ender Mail (by Chaosyr)
 Ender Storage 1.8.+ (by covers1624)
 Engineer's Decor (by wilechaote)
