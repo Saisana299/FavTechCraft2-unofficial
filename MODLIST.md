@@ -6,6 +6,11 @@
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 - [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+- [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism)
+- [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/relations/dependencies)
+- [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools)
+
+
 
 #### 農業
 
@@ -44,7 +49,7 @@
 - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
 - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
-
+- [Miner's Helmet](https://www.curseforge.com/minecraft/mc-mods/miners-helmet)
 
 
 #### Mob
@@ -57,6 +62,9 @@
 - [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
 - [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
+- [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
+- [mGui](https://www.curseforge.com/minecraft/mc-mods/mgui)
+
 
 #### システム
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
@@ -99,17 +107,6 @@
 
 以下未編集 
 
-
-
-
-
-
-McJtyLib (by McJty)
-Mekanism (by bradyaidanc)
-Mekanism Generators (by bradyaidanc)
-Mekanism Tools (by bradyaidanc)
-mGui (by mickelus)
-Miner's Helmet (by ModdingLegacy)
 Modular Routers (by desht_08)
 More Dragon Eggs (by Darkere)
 MoreVanillaLib (by MelanX)
