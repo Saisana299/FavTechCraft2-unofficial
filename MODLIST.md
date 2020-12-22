@@ -174,7 +174,6 @@
 - [Security](Craft https://www.curseforge.com/minecraft/mc-mods/security-craft)
 - [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
 - [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
-- [Traverse Reforged](https://www.curseforge.com/minecraft/mc-mods/traverse-reforged)
 - [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 - [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
