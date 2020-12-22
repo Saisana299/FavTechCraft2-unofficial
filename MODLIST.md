@@ -32,7 +32,7 @@
 - [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
 - [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
 - [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
-- [Simple Farming](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
+- [~~Simple Farming~~](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
 
 #### 魔術
 - [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
