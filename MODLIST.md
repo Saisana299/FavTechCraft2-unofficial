@@ -90,6 +90,7 @@
 - [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)
 - [Transport](https://www.curseforge.com/minecraft/mc-mods/transport)
 - [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 - [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
@@ -143,7 +144,6 @@
 - [Scaffolding behavior](https://www.curseforge.com/minecraft/mc-mods/scaffolding-behavior)
 - [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
 - [SwingThroughGrass](https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass)
-- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [Wither Skeleton Tweaks](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)
 
 #### クライアント
