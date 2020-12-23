@@ -132,7 +132,6 @@
 - [FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups)
 - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks)
 - [FTB GUI Library](https://www.curseforge.com/minecraft/mc-mods/ftb-gui-library)
-- [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests)
 - [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
