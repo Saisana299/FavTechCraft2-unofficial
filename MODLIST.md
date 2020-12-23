@@ -107,6 +107,7 @@
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
 - [mGui](https://www.curseforge.com/minecraft/mc-mods/mgui)
+- [MoreVanillaLib](https://www.curseforge.com/minecraft/mc-mods/morevanillalib)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium)
 - [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
