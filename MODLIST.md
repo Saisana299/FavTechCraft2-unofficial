@@ -89,8 +89,8 @@
 - [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 - [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 - [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
-- [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge)
-- [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge)
+- [~~Vanilla Excavators~~](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge)
+- [~~Vanilla Hammers~~](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 
 #### API/Library
