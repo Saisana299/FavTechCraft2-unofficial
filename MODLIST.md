@@ -149,6 +149,7 @@ forge1.16.4 - 35.1.13
 
 #### クライアント
 - [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Wawla - What Are We Looking At](https://www.curseforge.com/minecraft/mc-mods/wawla)
 
 #### サーバークライアント両方
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
@@ -173,7 +174,6 @@ forge1.16.4 - 35.1.13
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 - [ServerConfig Updater](https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater)
 - [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
-- [Wawla - What Are We Looking At](https://www.curseforge.com/minecraft/mc-mods/wawla)
 
 #### テクスチャ
 - [The Official Enigmatica Resource Pack](https://www.curseforge.com/minecraft/texture-packs/the-official-enigmatica-resource-pack-16x16)
