@@ -1,8 +1,10 @@
-## NewTech-1.16.4 ver0.0.1 Client Modlist 
+## NewTech-1.16.4 ver1.0.0 Client Modlist 
 
 #### 工業
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 - [Engineer's Decor](https://www.curseforge.com/minecraft/mc-mods/engineers-decor)
+- [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
+- [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
 - [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 - [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 - [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
@@ -34,6 +36,8 @@
 - [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 
 #### 魔術
+- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
+- [Magical Psi: Redux](https://www.curseforge.com/minecraft/mc-mods/magical-psi-redux)
 
 #### バニラ要素改変
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
@@ -41,12 +45,14 @@
 
 #### ディメンション追加
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
+- [Voidscape](https://www.curseforge.com/minecraft/mc-mods/voidscape)
 
 #### 環境要素追加
 - [Towers Of The Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
 
 #### アイテム追加
 - [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars)
+- [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
 - [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
 - [AzureDooms Angel Ring](https://www.curseforge.com/minecraft/mc-mods/azuredooms-angel-ring)
 - [Bamboo Everything](https://www.curseforge.com/minecraft/mc-mods/bamboo-everything-forge)
@@ -59,18 +65,18 @@
 - [Emendatus Enigmatica](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica)
 - [Ender Storage 1.8.+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 - [Ensorcellation](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
-- [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
-- [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
 - [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)
 - [Framed Compacting Drawers](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers)
 - [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
 - [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential)
+- [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
 - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
 - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
 - [Macaw's Trapdoors](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)
 - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 - [Miner's Helmet](https://www.curseforge.com/minecraft/mc-mods/miners-helmet)
+- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
 - [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [Portable Stonecutter](https://www.curseforge.com/minecraft/mc-mods/portable-stonecutter)
@@ -78,7 +84,9 @@
 - [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
 - [Restrictions](https://www.curseforge.com/minecraft/mc-mods/restrictions)
 - [Simply Light](https://www.curseforge.com/minecraft/mc-mods/simply-light)
+- [StorageBox mod](https://www.curseforge.com/minecraft/mc-mods/storagebox-mod)
 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+- [TofuCraftReload](https://www.curseforge.com/minecraft/mc-mods/tofucraftreload)
 - [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)
 - [Transport](https://www.curseforge.com/minecraft/mc-mods/transport)
 - [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
@@ -92,6 +100,7 @@
 - [CodeChicken Lib 1.8.+](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
 - [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 - [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
+- [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
 - [mGui](https://www.curseforge.com/minecraft/mc-mods/mgui)
@@ -152,13 +161,3 @@
 - [OldJavaWarning](https://www.curseforge.com/minecraft/mc-mods/oldjavawarning)
 - [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
-
-#### 追加予定
-- [StorageBox mod](https://www.curseforge.com/minecraft/mc-mods/storagebox-mod)
-- [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
-- [TofuCraftReload](https://www.curseforge.com/minecraft/mc-mods/tofucraftreload)
-- [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
-- [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
-- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
-- [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
-- [Voidscape](https://www.curseforge.com/minecraft/mc-mods/voidscape)
