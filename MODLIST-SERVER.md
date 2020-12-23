@@ -1,4 +1,4 @@
-## NewTech-1.16.4 ver0.0.1 Server Modlist 
+## NewTech-1.16.4 ver1.0.0 Server Modlist 
 
 #### サーバー
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
