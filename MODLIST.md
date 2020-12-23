@@ -76,7 +76,7 @@
 - [Miner's Helmet](https://www.curseforge.com/minecraft/mc-mods/miners-helmet)
 - [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
 - [~~Nature's Compass~~](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
-- [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
+- [~~OpenBlocks Elevator~~](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [Portable Stonecutter](https://www.curseforge.com/minecraft/mc-mods/portable-stonecutter)
 - [QuantumStorage](https://www.curseforge.com/minecraft/mc-mods/quantumstorage)
