@@ -148,9 +148,14 @@ forge1.16.4 - 35.1.13
 - [Wither Skeleton Tweaks](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks)
 
 #### クライアント
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+
+#### サーバークライアント両方
+- [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 - [AmbientSounds 3](https://www.curseforge.com/minecraft/mc-mods/ambientsounds)
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling)
 - [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
+- [Dungeons Plus](https://www.curseforge.com/minecraft/mc-mods/dungeons-plus)
 - [Extreme sound muffler](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler)
 - [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer)
 - [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)
@@ -160,11 +165,15 @@ forge1.16.4 - 35.1.13
 - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)
+- [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 - [OldJavaWarning](https://www.curseforge.com/minecraft/mc-mods/oldjavawarning)
 - [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
+- [RandomPatches](https://www.curseforge.com/minecraft/mc-mods/randompatches)
+- [RecipeBuffers](https://www.curseforge.com/minecraft/mc-mods/recipebuffers)
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
+- [ServerConfig Updater](https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater)
+- [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
 - [Wawla - What Are We Looking At](https://www.curseforge.com/minecraft/mc-mods/wawla)
-- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 
 #### テクスチャ
 - [The Official Enigmatica Resource Pack](https://www.curseforge.com/minecraft/texture-packs/the-official-enigmatica-resource-pack-16x16)
