@@ -45,7 +45,6 @@ forge1.16.4 - 35.1.13
 
 #### ディメンション追加
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
-- [Voidscape](https://www.curseforge.com/minecraft/mc-mods/voidscape)
 
 #### 環境要素追加
 - [Towers Of The Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
