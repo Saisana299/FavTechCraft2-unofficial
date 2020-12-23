@@ -35,7 +35,7 @@
 - [~~Simple Farming~~](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
 
 #### 魔術
-- [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
+- [~~Ars Nouveau~~](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 
 #### バニラ要素改変
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
