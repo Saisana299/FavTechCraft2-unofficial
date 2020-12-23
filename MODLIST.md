@@ -167,13 +167,12 @@
 - [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 - [TofuCraftReload](https://www.curseforge.com/minecraft/mc-mods/tofucraftreload)
 - [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
-- [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip/files?sort=totaldownloads)
+- [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
+- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
 
 #### 追加検討
-- [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
 - [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
 - [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
-- [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 - [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 - [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice)
