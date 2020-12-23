@@ -32,10 +32,8 @@
 - [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
 - [Pam's HarvestCraft 2 - Food Extended](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-extended)
 - [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
-- [~~Simple Farming~~](https://www.curseforge.com/minecraft/mc-mods/simple-farming)
 
 #### 魔術
-- [~~Ars Nouveau~~](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)
 
 #### バニラ要素改変
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves)
@@ -59,7 +57,6 @@
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Crafting Station](https://www.curseforge.com/minecraft/mc-mods/crafting-station)
 - [Emendatus Enigmatica](https://www.curseforge.com/minecraft/mc-mods/emendatus-enigmatica)
-- [~~Ender Mail~~](https://www.curseforge.com/minecraft/mc-mods/ender-mail)
 - [Ender Storage 1.8.+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 - [Ensorcellation](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 - [Extra Disks](https://www.curseforge.com/minecraft/mc-mods/extra-disks)
@@ -75,8 +72,6 @@
 - [Macaw's Windows](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)
 - [Miner's Helmet](https://www.curseforge.com/minecraft/mc-mods/miners-helmet)
 - [Modular Routers](https://www.curseforge.com/minecraft/mc-mods/modular-routers)
-- [~~Nature's Compass~~](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
-- [~~OpenBlocks Elevator~~](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [Portable Stonecutter](https://www.curseforge.com/minecraft/mc-mods/portable-stonecutter)
 - [QuantumStorage](https://www.curseforge.com/minecraft/mc-mods/quantumstorage)
@@ -89,8 +84,6 @@
 - [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 - [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 - [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
-- [~~Vanilla Excavators~~](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge)
-- [~~Vanilla Hammers~~](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators-forge)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 
 #### API/Library
@@ -99,11 +92,9 @@
 - [CodeChicken Lib 1.8.+](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
 - [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
 - [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
-- [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
 - [mGui](https://www.curseforge.com/minecraft/mc-mods/mgui)
-- [MoreVanillaLib](https://www.curseforge.com/minecraft/mc-mods/morevanillalib)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium)
 - [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
