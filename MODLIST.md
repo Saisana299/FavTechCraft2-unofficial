@@ -165,6 +165,7 @@
 - [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 - [Wawla - What Are We Looking At](https://www.curseforge.com/minecraft/mc-mods/wawla)
+- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 
 #### テクスチャ
 - [The Official Enigmatica Resource Pack](https://www.curseforge.com/minecraft/texture-packs/the-official-enigmatica-resource-pack-16x16)
