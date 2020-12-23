@@ -168,7 +168,6 @@ forge1.16.4 - 35.1.13
 #### サーバー
 - [AI Improvements](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)
 - [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
-- [RecipeBuffers](https://www.curseforge.com/minecraft/mc-mods/recipebuffers)
 
 #### サーバークライアント両方
 - [Dungeons Plus](https://www.curseforge.com/minecraft/mc-mods/dungeons-plus)
@@ -176,6 +175,7 @@ forge1.16.4 - 35.1.13
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
 - [ServerConfig Updater](https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater)
 - [Structure Gel API](https://www.curseforge.com/minecraft/mc-mods/structure-gel-api)
+- [RecipeBuffers](https://www.curseforge.com/minecraft/mc-mods/recipebuffers)
 
 #### テクスチャ
 - [The Official Enigmatica Resource Pack](https://www.curseforge.com/minecraft/texture-packs/the-official-enigmatica-resource-pack-16x16)
