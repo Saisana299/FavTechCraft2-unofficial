@@ -169,14 +169,8 @@
 - [MmmMmmMmmMmm](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm)
 - [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip)
 - [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
-
-#### 追加検討
 - [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
-- [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
-- [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic)
-- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
-- [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice)
 - [Voidscape](https://www.curseforge.com/minecraft/mc-mods/voidscape)
 
-
-
+#### 追加検討
+- [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
