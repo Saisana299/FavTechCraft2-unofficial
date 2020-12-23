@@ -109,6 +109,7 @@
 - [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
 
 #### システム
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
 - [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded)
 - [Bed Benefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
@@ -161,3 +162,7 @@
 - [OldJavaWarning](https://www.curseforge.com/minecraft/mc-mods/oldjavawarning)
 - [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar)
 - [Server Tab Info](https://www.curseforge.com/minecraft/mc-mods/server-tab-info)
+- [Wawla - What Are We Looking At](https://www.curseforge.com/minecraft/mc-mods/wawla)
+
+#### テクスチャ
+- [The Official Enigmatica Resource Pack](https://www.curseforge.com/minecraft/texture-packs/the-official-enigmatica-resource-pack-16x16)
