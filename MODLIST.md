@@ -173,3 +173,4 @@
 #### CurseForge外mod
 - [LittleMaidReBirth](https://www.dropbox.com/sh/qw3xwgupau2jhb0/AACWYqA7ZBZJjHBLzt-NPSFYa/LMRB-Forge-1.16.x?dl=0&subfolder_nav_tracking=1)
 - [LittleMaidModelLoader](https://www.dropbox.com/sh/dyvk8hwkejl22qh/AABjtFko9SHBMRorrK8V2zXra/LMML-Forge-1.16.x?dl=0&subfolder_nav_tracking=1)
+- [OptiFine](https://optifine.net/home)
