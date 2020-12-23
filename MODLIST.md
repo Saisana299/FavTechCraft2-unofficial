@@ -171,6 +171,3 @@
 - [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
 - [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
 - [Voidscape](https://www.curseforge.com/minecraft/mc-mods/voidscape)
-
-#### 追加検討
-- [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
