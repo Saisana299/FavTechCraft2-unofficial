@@ -94,6 +94,8 @@
 - [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 - [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
+- [Vanilla Excavators](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators)
+- [Vanilla Hammers](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers)
 
 #### API/Library
 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
