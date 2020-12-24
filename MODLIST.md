@@ -94,8 +94,6 @@ forge1.16.4 - 35.1.13
 - [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks)
 - [Useful Railroads](https://www.curseforge.com/minecraft/mc-mods/useful-railroads)
 - [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
-- [~~Vanilla Excavators~~](https://www.curseforge.com/minecraft/mc-mods/vanilla-excavators)
-- [~~Vanilla Hammers~~](https://www.curseforge.com/minecraft/mc-mods/vanilla-hammers)
 
 #### API/Library
 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
@@ -108,7 +106,6 @@ forge1.16.4 - 35.1.13
 - [LittleMaidModelLoader](https://www.dropbox.com/sh/dyvk8hwkejl22qh/AABjtFko9SHBMRorrK8V2zXra/LMML-Forge-1.16.x?dl=0&subfolder_nav_tracking=1)
 - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
 - [mGui](https://www.curseforge.com/minecraft/mc-mods/mgui)
-- [~~MoreVanillaLib~~](https://www.curseforge.com/minecraft/mc-mods/morevanillalib)
 - [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 - [Titanium](https://www.curseforge.com/minecraft/mc-mods/titanium)
 - [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
