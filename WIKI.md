@@ -31,7 +31,7 @@ MFRを1.11.2以降に対応させ、また改良したMOD
 コレのみで完結できるほど多岐に渡るアイテムを大量に追加する。  
 Wiki: https://wiki.aidancbrady.com/wiki/Main_Page  
 
-- **Mekanism Generators**
+- **Mekanism Generators**  
 さまざまなジェネレーターとエネルギーを生成する方法を追加します  
 Wiki: https://wiki.aidancbrady.com/wiki/Main_Page  
 
