@@ -126,8 +126,6 @@ The One Probe
 Useful Backpacks
 Useful Railroads
 Waystones
-Vanilla Excavators
-Vanilla Hammers
 
 ### API/Library
 Bookshelf
@@ -140,7 +138,6 @@ Item Filters
 LittleMaidModelLoader
 McJtyLib
 mGui
-MoreVanillaLib
 Placebo
 Titanium
 U Team Core
