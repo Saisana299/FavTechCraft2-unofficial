@@ -49,7 +49,7 @@ forge1.16.4 - 35.1.13
 #### 環境要素追加
 - [Towers Of The Wild](https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild)
 
-#### アイテム追加
+#### 新要素追加
 - [Additional Bars](https://www.curseforge.com/minecraft/mc-mods/additional-bars)
 - [Advanced Chimneys](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys)
 - [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
@@ -69,6 +69,7 @@ forge1.16.4 - 35.1.13
 - [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
 - [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential)
 - [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
+- [LittleMaidReBirth](https://www.dropbox.com/sh/qw3xwgupau2jhb0/AACWYqA7ZBZJjHBLzt-NPSFYa/LMRB-Forge-1.16.x?dl=0&subfolder_nav_tracking=1)
 - [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)
 - [Macaw's Doors](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)
 - [Macaw's Roofs](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)
@@ -104,6 +105,7 @@ forge1.16.4 - 35.1.13
 - [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
 - [ForgeEndertech](https://www.curseforge.com/minecraft/mc-mods/forgeendertech)
 - [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
+- [LittleMaidModelLoader](https://www.dropbox.com/sh/dyvk8hwkejl22qh/AABjtFko9SHBMRorrK8V2zXra/LMML-Forge-1.16.x?dl=0&subfolder_nav_tracking=1)
 - [McJtyLib](https://www.curseforge.com/minecraft/mc-mods/mcjtylib)
 - [mGui](https://www.curseforge.com/minecraft/mc-mods/mgui)
 - [~~MoreVanillaLib~~](https://www.curseforge.com/minecraft/mc-mods/morevanillalib)
@@ -158,6 +160,7 @@ forge1.16.4 - 35.1.13
 - [JEITweaker](https://www.curseforge.com/minecraft/mc-mods/jeitweaker)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+- [OptiFine](https://optifine.net/home)
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Neat](https://www.curseforge.com/minecraft/mc-mods/neat)
 - [OldJavaWarning](https://www.curseforge.com/minecraft/mc-mods/oldjavawarning)
@@ -179,8 +182,3 @@ forge1.16.4 - 35.1.13
 
 #### テクスチャ
 - [The Official Enigmatica Resource Pack](https://www.curseforge.com/minecraft/texture-packs/the-official-enigmatica-resource-pack-16x16)
-
-#### CurseForge外mod
-- [LittleMaidReBirth](https://www.dropbox.com/sh/qw3xwgupau2jhb0/AACWYqA7ZBZJjHBLzt-NPSFYa/LMRB-Forge-1.16.x?dl=0&subfolder_nav_tracking=1)
-- [LittleMaidModelLoader](https://www.dropbox.com/sh/dyvk8hwkejl22qh/AABjtFko9SHBMRorrK8V2zXra/LMML-Forge-1.16.x?dl=0&subfolder_nav_tracking=1)
-- [OptiFine](https://optifine.net/home)
