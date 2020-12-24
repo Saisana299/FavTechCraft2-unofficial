@@ -1,60 +1,92 @@
 ## NewTech-1.16.4 ver1.0.0 Mod Wiki list
 
-#### 工業
-Create
-Engineer's Decor
-Extra Disks
-ExtraStorage
-Immersive Engineering
-Immersive Petroleum
-Industrial Foregoing
-Mekanism
-Mekanism Generators
-Mekanism Tools
-PneumaticCraft: Repressurized
-RFTools Base
-RFTools Builder
-RFTools Control
-RFTools Power
-RFTools Storage
-RFTools Utility
-Refined Storage
-Refined Storage Addons
-Refined Storage: Requestify
-Tetra
-Thermal Expansion
-Thermal Foundation
-Thermal Innovation
-Thermal Locomotion
-XNet
-XNet Gases
+### 工業
+- **Create**  
+構築、装飾、美的自動化のためのさまざまなツールとブロックを提供するmod  
+Wiki: https://github.com/Creators-of-Create/Create/wiki  
 
-#### 農業
-Pam's HarvestCraft 2 - Crops
-Pam's HarvestCraft 2 - Food Core
-Pam's HarvestCraft 2 - Food Extended
-Pam's HarvestCraft 2 - Trees
+- **Engineer's Decor**  
+装飾的なブロックとデバイスに重点を置いており、見栄えの良い製造装置を構築するのに役立ちます  
+Curse: https://www.curseforge.com/minecraft/mc-mods/engineers-decor  
 
-#### 魔術
-Psi
-Magical Psi: Redux
+- **Extra Disks**  
+はるかに大きなアイテムと流動ディスクを追加するRefinedStorageのアドオン   
 
-#### バニラ要素改変
-YUNG's Better Caves
-YUNG's Better Mineshafts
+- **ExtraStorage**  
+RefinedStorageのアドオン  
+4つのレベルのクラフターを追加し、それぞれがクラフティング速度とそれが保持できるパターンの数を増やす   
 
-#### ディメンション追加
-The Undergarden
+- **Immersive Engineering**  
+アイデアとコンセプトに基づいた特定の魅力を備えた技術MOD   
 
-#### 環境要素追加
-Towers Of The Wild
+- **Immersive Petroleum**  
+Immersive Engineering向けの軽量コンテンツアドオンであり、 石油、石油抽出、石油処理をmodの技術進歩に導入します  
 
-#### 新要素追加
-Additional Bars
-Advanced Chimneys
-Apotheosis
-AzureDooms Angel Ring
-Bamboo Everything
+- **Industrial Foregoing**  
+MFRを1.11.2以降に対応させ、また改良したMOD  
+
+- **Mekanism**  
+新種の鉱石や、発電機や採掘機、鉱石を4倍に増やせる機械群などの
+各種マシン、さまざまなエネルギーを一本で扱えるケーブルなど
+コレのみで完結できるほど多岐に渡るアイテムを大量に追加する。  
+Wiki: https://wiki.aidancbrady.com/wiki/Main_Page  
+
+- **Mekanism Generators**
+さまざまなジェネレーターとエネルギーを生成する方法を追加します  
+Wiki: https://wiki.aidancbrady.com/wiki/Main_Page  
+
+- **Mekanism Tools**  
+さまざまなMekanismマテリアル、および一部のバニラマテリアルにツールとアーマーを追加します  
+Wiki: https://wiki.aidancbrady.com/wiki/Main_Page  
+
+- **PneumaticCraft: Repressurized**  
+空気圧に関するすべての技術的なmodです。  
+実生活に基づいた電源システムとは別に、あらゆる種類のタスクを実行するようにプログラムできるドローンや、HUDのようなアイアンマンを提供する空気圧ヘルメットなど、あらゆる種類のツールやガジェットが追加されています  
+Wiki: https://github.com/TeamPneumatic/pnc-repressurized/wiki  
+
+- RFTools Base
+- RFTools Builder
+- RFTools Control
+- RFTools Power
+- RFTools Storage
+- RFTools Utility
+- Refined Storage
+- Refined Storage Addons
+- Refined Storage: Requestify
+- Tetra
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Innovation
+- Thermal Locomotion
+- XNet
+- XNet Gases
+
+### 農業
+- Pam's HarvestCraft 2 - Crops
+- Pam's HarvestCraft 2 - Food Core
+- Pam's HarvestCraft 2 - Food Extended
+- Pam's HarvestCraft 2 - Trees
+
+### 魔術
+- Psi
+- Magical Psi: Redux
+
+### バニラ要素改変
+- YUNG's Better Caves
+- YUNG's Better Mineshafts
+
+### ディメンション追加
+- The Undergarden
+
+### 環境要素追加
+- Towers Of The Wild
+
+### 新要素追加
+- Additional Bars
+- Advanced Chimneys
+- Apotheosis
+- AzureDooms Angel Ring
+- Bamboo Everything
 Builders Crafts & Additions
 Building Gadgets
 Chisels & Bits
@@ -97,7 +129,7 @@ Waystones
 Vanilla Excavators
 Vanilla Hammers
 
-#### API/Library
+### API/Library
 Bookshelf
 CoFH Core
 CodeChicken Lib 1.8.+
@@ -113,7 +145,7 @@ Placebo
 Titanium
 U Team Core
 
-#### システム
+### システム
 AppleSkin
 AttributeFix
 Bad Wither No Cookie - Reloaded
@@ -149,7 +181,7 @@ Spice of Life: Carrot Edition
 SwingThroughGrass
 Wither Skeleton Tweaks
 
-#### クライアント
+### クライアント
 AmbientSounds 3
 Controlling
 Crafting Tweaks
@@ -168,11 +200,11 @@ Overloaded Armor Bar
 Xaero's Minimap
 Wawla - What Are We Looking At
 
-#### サーバー
+### サーバー
 AI Improvements
 NetherPortalFix
 
-#### サーバークライアント両方
+### サーバークライアント両方
 Dungeons Plus
 RandomPatches
 Server Tab Info
@@ -180,5 +212,5 @@ ServerConfig Updater
 Structure Gel API
 RecipeBuffers
 
-#### テクスチャ
+### テクスチャ
 The Official Enigmatica Resource Pack
