@@ -1,4 +1,4 @@
-## NewTech-1.16.4 ver1.0.0 Client Modlist 
+## NewTech-1.16.4 ver1.1.0 Client Modlist 
 forge1.16.4 - 35.1.13
 #### 工業
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
@@ -179,3 +179,11 @@ forge1.16.4 - 35.1.13
 
 #### テクスチャ
 - [The Official Enigmatica Resource Pack](https://www.curseforge.com/minecraft/texture-packs/the-official-enigmatica-resource-pack-16x16)
+
+#### ver1.1.0追加要素
+- [Elemental Craft](https://www.curseforge.com/minecraft/mc-mods/elemental-craft)
+- [EmbellishCraft](https://www.curseforge.com/minecraft/mc-mods/embellishcraft)
+- [Immersive Posts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts)
+- [Powah!](https://www.curseforge.com/minecraft/mc-mods/powah)
+- [Simply Tea!](https://www.curseforge.com/minecraft/mc-mods/simply-tea)
+- [Storage Tech](https://www.curseforge.com/minecraft/mc-mods/storage-tech)
