@@ -187,3 +187,4 @@ forge1.16.4 - 35.1.13
 - [Powah!](https://www.curseforge.com/minecraft/mc-mods/powah)
 - [Simply Tea!](https://www.curseforge.com/minecraft/mc-mods/simply-tea)
 - [Storage Tech](https://www.curseforge.com/minecraft/mc-mods/storage-tech)
+- [Lollipop](https://www.curseforge.com/minecraft/mc-mods/lollipop)
