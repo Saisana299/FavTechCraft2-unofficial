@@ -1,4 +1,4 @@
-## NewTech-1.16.4 ver1.1.0 Client Modlist 
+## NewTech-1.16.4 ver1.2.0 Client Modlist 
 forge1.16.4 - 35.1.13
 #### 工業
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
