@@ -1,4 +1,4 @@
-## NewTech-1.16.4 ver1.0.0 Mod Wiki list
+## NewTech-1.16.4 ver1.2.0 Mod Wiki list
 
 Wikiリンクが無いものに関しては  
 MODLIST.mdの方から飛べるCurseForgeを参考にして下さい。
@@ -280,3 +280,18 @@ Minecraftの洞窟システムを完全にオーバーホールします。洞�
 
 ### テクスチャ
 - **The Official Enigmatica Resource Pack**  
+
+### ver1.1.0追加要素
+- **Elemental Craft**  
+- **EmbellishCraft**  
+- **Immersive Posts**  
+- **Powah!**  
+- **Simply Tea!**  
+- **Storage Tech**  
+- **Lollipop**  
+- **Mapper Base**  
+
+### ver1.2.0追加要素
+- **BetterEnd**  
+- **Supplementaries**  
+- **Woot**  
