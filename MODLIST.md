@@ -192,9 +192,6 @@ forge1.16.4 - 35.1.13
 
 ### ver1.2.0追加候補
 - [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
-- [ItemPhysic Full](https://www.curseforge.com/minecraft/mc-mods/itemphysic)
-- [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore)
-- [ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite)
 - [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 - [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
