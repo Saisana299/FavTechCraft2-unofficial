@@ -190,7 +190,7 @@ forge1.16.4 - 35.1.13
 - [Lollipop](https://www.curseforge.com/minecraft/mc-mods/lollipop)
 - [Mapper Base](https://www.curseforge.com/minecraft/mc-mods/mapper-base)
 
-### ver1.2.0追加候補
+#### ver1.2.0追加要素
 - [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 - [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
