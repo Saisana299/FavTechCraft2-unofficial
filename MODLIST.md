@@ -191,7 +191,6 @@ forge1.16.4 - 35.1.13
 - [Mapper Base](https://www.curseforge.com/minecraft/mc-mods/mapper-base)
 
 ### ver1.2.0追加候補
-- [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
-- [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
+- [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
-- [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
+- [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
