@@ -210,6 +210,7 @@ Minecraftの洞窟システムを完全にオーバーホールします。洞�
 - **Placebo**  
 - **Titanium**  
 - **U Team Core**  
+各新要素追加系modの前提modです。  
 
 ### システム
 - **AppleSkin**  
@@ -245,7 +246,8 @@ Minecraftの洞窟システムを完全にオーバーホールします。洞�
 - **Scaffolding behavior**  
 - **Spice of Life: Carrot Edition**  
 - **SwingThroughGrass**  
-- **Wither Skeleton Tweaks**  **  
+- **Wither Skeleton Tweaks**  
+その効果については配布ページを確認してください。  
 
 ### クライアント
 - **AmbientSounds 3**  
@@ -265,10 +267,12 @@ Minecraftの洞窟システムを完全にオーバーホールします。洞�
 - **Overloaded Armor Bar**  
 - **Xaero's Minimap**  
 - **Wawla - What Are We Looking At**  
+その効果については配布ページを確認してください。  
 
 ### サーバー
 - **AI Improvements**  
 - **NetherPortalFix**  
+その効果については配布ページを確認してください。  
 
 ### サーバークライアント両方
 - **Dungeons Plus**  
@@ -277,21 +281,52 @@ Minecraftの洞窟システムを完全にオーバーホールします。洞�
 - **ServerConfig Updater**  
 - **Structure Gel API**  
 - **RecipeBuffers**  
+その効果については配布ページを確認してください。  
 
 ### テクスチャ
 - **The Official Enigmatica Resource Pack**  
+いくつかのmodの古いテクスチャの一部を更新することを目的としています。  
 
 ### ver1.1.0追加要素
 - **Elemental Craft**  
+要素、それらの要素を収集し、さまざまな工芸品に使用する方法：注入、バインディングなど。  
+また、神社を使用して世界の要素を導き、作物の成長、石を 溶岩または抽出鉱石。   
+インフューザーを使用して、既存のエンチャントを改善したり、ツールに新しい機能を追加したりすることもできます。  
+Wiki: https://github.com/Sirttas/ElementalCraft/wiki  
+
 - **EmbellishCraft**  
+建物の創造性を高めるために多くの装飾ブロックを追加するmodです！  
+
 - **Immersive Posts**  
+簡単に言えば、このmodを使用すると、処理済みの木材、アルミニウム、鋼のバリエーションだけでなく、いくつかの異なるタイプから選択できる非常に背の高い投稿を作成できます。  
 - **Powah!**  
+Forge Energyを生成、保存、および送信するためのさまざまな方法を追加する技術modです。  
+動画: https://www.youtube.com/watch?v=CggB-gdA1ok  
+
 - **Simply Tea!**  
+あなたの世界に生まれる茶の木！  
+水を入れて沸騰させることができる急須！  
+緑、黒、チャイ、フローラル、カモミール、コーラスの6種類のお茶。さまざまな効果で！  
+Wiki: https://github.com/KnightMiner/SimplyTea/wiki  
+
 - **Storage Tech**  
+洗練されたストレージのアドオンです。  
+modを使用すると、Mekanismがロードされている場合に、アイテム、流体、エネルギー、および化学物質を格納するためのカスタムディスクサイズを作成できます。  
+Wiki: https://github.com/JavaPowerFR/StorageTech/wiki
+
 - **Lollipop**  
+Modをより速く実行するために使用するライブラリModです。  
+
 - **Mapper Base**  
+のmodに基本的な要素と機能を提供するライブラリmodです。  
 
 ### ver1.2.0追加要素
-- **BetterEnd**  
+- **BetterEnd**
+新しいバイオーム、ブロック、モブ、ゲームプレイメカニズムを追加することで、Endディメンションにまったく新しい外観を与えます。  
+
 - **Supplementaries**  
+バニラマインクラフトにうまく収まる便利でクリエイティブなレッドストーンブロックだけでなく、多くのアニメーション化された機能的な装飾を追加します。  
+
 - **Woot**  
+Mobを沸かせずにトラップを作れます。  
+Wiki: https://github.com/Ipsis/Woot/wiki  
