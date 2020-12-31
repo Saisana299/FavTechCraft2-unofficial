@@ -330,3 +330,7 @@ Modをより速く実行するために使用するライブラリModです。
 - **Woot**  
 Mobを沸かせずにトラップを作れます。  
 Wiki: https://github.com/Ipsis/Woot/wiki  
+
+### ver1.3.0追加要素
+- **Polymorph**
+重複したレシピを選択できます
