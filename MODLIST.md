@@ -1,4 +1,4 @@
-## NewTech-1.16.4 ver1.2.0 Client Modlist 
+## NewTech-1.16.4 ver1.3.0 Client Modlist 
 forge1.16.4 - 35.1.13
 #### 工業
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
@@ -194,3 +194,6 @@ forge1.16.4 - 35.1.13
 - [BetterEnd](https://www.curseforge.com/minecraft/mc-mods/betterend-forge-port)
 - [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries)
 - [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
+
+#### ver1.3.0追加要素
+- [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
